@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Maspera</string>
+    <string name="welcome">welcome to Maspera, with this app you can schedule with your favorite barber At the touch of a button   maspera@gmail.com</string>
+    <string name="login_quart">please enter your phone number and Password \n</string>
+    <string name="eara1">if you dont have any \n
+        we recommend to sign in as costumer, at the link below (first use is 50% discount. If you don’t want to sign in please enter as a guest in the bottom below</string>
+    <string name="pass">*Password</string>
+    <string name="please_enter_your_password_here">Please enter your password here</string>
+    <string name="please_enter_your_username_here">Please enter your name here</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_barbari">welcome to Maspera</string>
+    <string name="login">LogIn As\n Costumer</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="get_in_as_a_guest">get in as a guest</string>
+    <string name="creat_user">create new costumer</string>
+    <string name="manager_login_btn">LogIn</string>
+    <string name="enter_your_information">Enter your information</string>
+    <string name="confirm_password">*confirm Password</string>
+    <string name="enter_password_again">enter password again</string>
+    <string name="e_mail">E-mail</string>
+    <string name="hometown">HomeTown</string>
+    <string name="enter_where_you_living">enter where you living</string>
+    <string name="creat_costumer">Creat Costumer</string>
+    <string name="enter_your_mail">Enter Your E-Mail</string>
+    <string name="name_gmail_com">name@Gmail.com</string>
+    <string name="send_me_my_password">Send me my password</string>
+    <string name="buy_chip_beer">buy happy hour beer</string>
+    <string name="your_kod">your Kod:</string>
+    <string name="ok_shut_down_the_phon_nenjoy_your_beer">ok, shut down the phon  enjoy your beer:)</string>
+    <string name="show_the_kod_to_the_barmen_n_and_your_beer_is_on_the_way">show the kod to the barmen  and your beer is on the way</string>
+    <string name="title">enter your title bar</string>
+    <string name="titlebar">title</string>
+    <string name="des_bar">enter the description of your bar</string>
+    <string name="description_bar">description</string>
+    <string name="im_bar_up">upload an image of your bar</string>
+    <string name="upload_b">upload bar</string>
+    <string name="rate_barber">Rate Barber</string>
+    <string name="name">*name</string>
+    <string name="last_name">*last name</string>
+    <string name="phone_number">*phone number</string>
+    <string name="sex">*sex</string>
+    <string name="sms_phone_kod">*sms phone kod:</string>
+    <string name="enter_the_kod_you_recived">enter the kod you recived</string>
+    <string name="enter_your_last_name">enter your last name</string>
+    <string name="enter_your_phone_number">enter your phone number</string>
+    <string name="enter_yout_sex">enter yout sex</string>
+
+
+</resources>
+

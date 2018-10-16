@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">המספרה</string>
+    <string name="welcome">
+       ברוך הבא למספרה, פה תוכל לקבוע תור עם הספר המועדף עלייך בלחיצת כפתור.
+       ליצירת קשר:
+ maspera@gmail.com</string>
+    <string name="login_quart">אם אתה לקוח קבוע אנא הכנס שם משתמש וססמא
+ \n</string>
+    <string name="eara1">אם אינך רשום \n
+       אנו ממליצים להרשם בכפתור למטה (משתמשים חדשים מקבלים 50% הנחה לתספורת ראשונה). אם אינך רוצה להרשם בכל מקרה, לחץ על הכפתור הכנס כאורח למטה</string>
+    <string name="name">שם פרטי</string>
+   <string name="last_name">שם משפחה</string>
+    <string name="pass">*ססמא</string>
+    <string name="please_enter_your_password_here">אנא הכנס ססמתך כאן</string>
+    <string name="please_enter_your_username_here">אנא הכנס שם משתמש כאן</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_barbari">ברוך הבא למספרה</string>
+    <string name="login">הכנס כלקוח</string>
+    <string name="forgot_password">שחכתי ססמא</string>
+    <string name="get_in_as_a_guest">הכנס כאורח</string>
+    <string name="creat_user">הרשם כלקוח חדש</string>
+    <string name="manager_login_btn">התחבר</string>
+    <string name="enter_your_information">הכנס מידע</string>
+    <string name="confirm_password">*וודא ססמא</string>
+    <string name="enter_password_again">הכנס ססמא שוב</string>
+    <string name="e_mail">דוא"ל</string>
+    <string name="enter_your_mail">הכנס כתובת מייל</string>
+    <string name="hometown">עיר מגורים</string>
+    <string name="enter_where_you_living">הכנס את מקום מגורייך</string>
+    <string name="creat_costumer">צור משתמש</string>
+    <string name="name_gmail_com">name@Gmail.com</string>
+    <string name="send_me_my_password">שחזר ססמא</string>
+    <string name="buy_chip_beer">הזמן הפי האוור</string>
+    <string name="your_kod">ססמתך</string>
+    <string name="ok_shut_down_the_phon_nenjoy_your_beer">אוקיי, כבה תפלאפון</string>
+    <string name="show_the_kod_to_the_barmen_n_and_your_beer_is_on_the_way">הראה לברמן את הקוד והמשקה בדרך</string>
+    <string name="title">הכנס כותרת</string>
+    <string name="titlebar">כותרת</string>
+    <string name="des_bar">הכנס תיאור</string>
+    <string name="description_bar">תיאור</string>
+    <string name="im_bar_up">העלה תמונה</string>
+    <string name="upload_b">עדכן</string>
+    <string name="rate_barber">דרג ספר</string>
+    <string name="phone_number">*מספר פלאפון</string>
+    <string name="sex">*מין</string>
+    <string name="sms_phone_kod">*קוד בהודעת סמס</string>
+    <string name="enter_the_kod_you_recived">הכנס את הקוד שקבלת</string>
+    <string name="enter_your_last_name">הכנס שם משפחה</string>
+    <string name="enter_your_phone_number">הכנס מספר פלאפון</string>
+    <string name="enter_yout_sex">הכנס את מינך</string>
+
+
+</resources>

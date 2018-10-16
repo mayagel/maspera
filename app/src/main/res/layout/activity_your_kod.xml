@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context="com.miara.yagel.maspera.YourKodActivity">
+
+    <TextView
+        android:id="@+id/yor_kod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@android:drawable/alert_light_frame"
+        android:text="@string/your_kod"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColorHighlight="@android:color/holo_orange_light"
+        android:textColorLink="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/the_kod"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/alert_light_frame"
+        android:gravity="center"
+        android:text="XXXXXXX"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textColor="#ff0008"
+        android:textColorHighlight="@color/colorPrimary"
+        android:textColorLink="@color/colorPrimary"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toTopOf="@+id/the_end"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/yor_kod" />
+
+    <TextView
+        android:id="@+id/the_end"
+        android:layout_width="214dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@android:drawable/spinner_dropdown_background"
+        android:gravity="center"
+        android:text="@string/ok_shut_down_the_phon_nenjoy_your_beer"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColorHighlight="@android:color/holo_orange_light"
+        android:textColorLink="@color/colorPrimary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/eara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show_the_kod_to_the_barmen_n_and_your_beer_is_on_the_way"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/the_kod" />
+
+
+</android.support.constraint.ConstraintLayout>
